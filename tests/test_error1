@@ -1,0 +1,9 @@
+var int : x;
+var set_of 5..10 : xs;
+var set_of int : y;
+
+
+constraint x > 0 > 10;
+constraint x = 3 + 4;
+
+solve maximize x;

@@ -1,0 +1,7 @@
+var int : x;
+var int : y;
+
+constraint x > 10 ;
+constraint y == 10*x ;
+
+solve satisfy;

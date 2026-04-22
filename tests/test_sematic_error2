@@ -1,0 +1,7 @@
+
+var int : x;
+var bool : y; 
+
+constraint x > y;
+
+solve satisfy;
