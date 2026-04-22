@@ -1,0 +1,6 @@
+
+var int : x;
+
+constraint x > 10;
+
+solve satisfy;
